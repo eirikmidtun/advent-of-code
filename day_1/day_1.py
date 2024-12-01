@@ -1,5 +1,3 @@
-import numpy as np
-
 sum_task_1 = 0
 sum_task_2 = 0
 left = []
